@@ -9,7 +9,7 @@
 	 
 	"browser_action": {
 	  "default_icon": "images/icon.png", 
-	  "default_title": "Status: "
+	  "default_title": "Status: Unknown"
 	} ,
 
 	"icons": {
